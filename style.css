@@ -33,9 +33,6 @@ p{
 .qr_card {
     width: 350px;
     height: 490px;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
     background-color: hsl(0, 0%, 100%);
     padding: 30px;
     border: 1px solid #ccc;
@@ -46,6 +43,5 @@ p{
 
 .qr_text{
     font-family: Outfit, sans-serif;
-    text-align: center;
-   
+    text-align: center;   
 }
